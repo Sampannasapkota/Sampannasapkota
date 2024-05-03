@@ -1,16 +1,22 @@
-### Hi there 👋
+# Welcome to my GitHub Profile
 
-<!--
-**Sampannasapkota/Sampannasapkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm Sampanna Sapkota, a passionate programmer with a keen interest in exploring the world of technology. Currently, I'm dedicated to learning web development with HTML, CSS, JavaScript, and React to create dynamic and interactive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Doing
+
+- Learning web development with HTML, CSS, JavaScript, and React.
+- Improving my skills in UI/UX design for creating intuitive interfaces.
+- Exploring the world of technology with enthusiasm.
+
+
+## Collaboration
+
+I'm eager to collaborate on exciting web development projects with fellow programmers and developers to create impactful and innovative solutions.
+
+## Get in Touch
+
+Feel free to reach out to me via email at sampannasapkota12@gmail.com for any inquiries or collaboration opportunities.
+
+Let's connect and create something amazing together!
