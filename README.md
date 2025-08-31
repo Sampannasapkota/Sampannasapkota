@@ -10,6 +10,11 @@
 I'm **Sampanna Sapkota**, a passionate full-stack developer from Nepal 🇳🇵 focused on building modern, scalable, and clean applications.
 
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtuenZtcDl0cHF1bnd2cGJ1M3p3YTE2c3JjZmxxamJ3bjVucDhmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="480" alt="cool dev coding gif" />
+</p>
+
+
 
 ### 🚀 Tech Stack
 
@@ -45,6 +50,6 @@ I'm **Sampanna Sapkota**, a passionate full-stack developer from Nepal 🇳🇵 
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="480" alt="cool dev coding gif" />
+  <img src="[https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3UxeWxmNzFraHkxcjFoZHZuMmZ5aDhheXljZTExOXlqNGtwem4xMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs2hYz9dgpmSoZc4/giphy.gif)" width="480" alt="cool dev coding gif" />
 </p>
 <p align="center"><i>Happy Coding🚀</i></p>
