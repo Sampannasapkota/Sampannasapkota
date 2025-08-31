@@ -45,7 +45,6 @@ I'm **Sampanna Sapkota**, a passionate full-stack developer from Nepal 🇳🇵 
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="480" alt="cool developer coding gif" />
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="480" alt="cool dev coding gif" />
 </p>
-
-<p align="center"><i>Thanks for visiting! Let's build something cool 🚀</i></p>
+<p align="center"><i>Happy Coding🚀</i></p>
