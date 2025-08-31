@@ -1,46 +1,51 @@
 <h1 align="center">Hi there, I'm Sampanna 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CE3E&width=435&lines=Java+%7C+Spring+Boot+Developer;Web+Development+%7C+React+%7C+UI%2FUX;Love+Clean+Code+%26+Design+Patterns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBF&width=600&center=true&lines=Full-Stack+Developer+%7C+Java+%2B+Spring+Boot;NestJS+%7C+PostgreSQL+%7C+Prisma+ORM+%7C+Insomnia" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm **Sampanna Sapkota**, a passionate full-stack developer from Nepal 🇳🇵 diving deep into the **Java ecosystem** and the world of **modern web development**.
+I'm **Sampanna Sapkota**, a passionate full-stack developer from Nepal 🇳🇵 focused on building modern, scalable, and clean applications.
 
-Currently focusing on:
-- 🚀 **Java + Spring Boot** (REST APIs, MVC, JPA, Spring Security)
-- ⚛️ **Frontend** with React, Tailwind CSS
-- 🎨 **UI/UX** for smooth, intuitive interfaces
-- 🧠 Exploring design patterns, system design, and software architecture
 
----
 
-### 💻 Tech Stack
+### 🚀 Tech Stack
 
-```java
-Languages: Java, JavaScript, HTML, CSS
-Frameworks: Spring Boot, React
-Databases: MySQL, PostgreSQL
-Tools: Git, GitHub, Postman, VS Code, IntelliJ
-```
+#### 🧩 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,git,github,mysql,postgres,postman,vscode,intellij" />
+#### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+#### 💻 IDEs & Platforms
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-
-### 🤝 Let’s Connect
+### 📬 Let’s Connect
 
 📧 Email: [sampannasapkota12@gmail.com](mailto:sampannasapkota12@gmail.com)
 
 ---
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="480" alt="cool developer coding gif" />
 </p>
 
----
+<p align="center"><i>Thanks for visiting! Let's build something cool 🚀</i></p>
